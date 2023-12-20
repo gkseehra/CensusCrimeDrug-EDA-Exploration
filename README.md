@@ -1,4 +1,4 @@
-# CensusCrimeDrug-EDA-Exploration
+# CensusCrimeDrug EDA Exploration
 
 ## Overview
 CensusCrimeDrug-EDA-Exploration is a comprehensive repository where I perform Exploratory Data Analysis (EDA) on three distinct datasets: Census Income Data, Crime Data, and Drug Consumption Data. This project aims to uncover insights and patterns within these datasets, showcasing the power of data analysis in understanding societal trends.
