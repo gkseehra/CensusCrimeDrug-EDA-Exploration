@@ -14,7 +14,7 @@ CensusCrimeDrug-EDA-Exploration is a comprehensive repository where I perform Ex
 - To use visualizations to effectively communicate findings.
 
 ## Tools Used
-- Python
+- Python 3.x
 - Jupyter Notebook
 - Libraries: pandas, matplotlib, numpy, folium, sklearn.
 
